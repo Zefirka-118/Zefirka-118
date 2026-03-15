@@ -1,5 +1,11 @@
 ![Header](assets/header.svg)
 
+<p align="center">
+  <img src="assets/Python-Symbol_0.png" width="80" alt="Python"/>
+  <img src="assets/ISO_C++_Logo.svg.png" width="80" alt="C++"/>
+  <img src="assets/Arduino_Logo_Registered.svg.png" width="80" alt="Arduino"/>
+</p>
+
 # Zefrik
 
 Soy estudiante de Ingeniería en Software.
@@ -65,6 +71,16 @@ Simulación básica de un **semáforo con Arduino UNO usando tres LEDs**.
 **Aprendiendo**
 
 - JavaScript
+- Phyton
+
+---
+
+## Estadísticas (GitHub)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zefirka-118&show_icons=true&theme=dark" alt="Zefrik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zefirka-118&layout=compact&theme=dark" alt="Top languages" />
+</p>
 
 ---
 
@@ -78,3 +94,9 @@ Este perfil funciona como un registro de aprendizaje donde voy subiendo:
 - documentación de ideas y técnicas
 
 El objetivo es **seguir aprendiendo y construir un portafolio técnico con el tiempo**.
+
+---
+
+## Enlaces
+- Tinkercad (simulaciones): https://www.tinkercad.com/things/fXvH7gprCiW
+- GitHub: https://github.com/Zefirka-118
