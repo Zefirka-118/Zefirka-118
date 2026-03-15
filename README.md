@@ -1,6 +1,10 @@
 ![Header](assets/header.svg)
 
 <p align="center">
+  <img src="assets/header_anim.gif" width="1000" alt="Animación: Python → C++ → Arduino"/>
+</p>
+
+<p align="center">
   <img src="assets/Python-Symbol_0.png" width="80" alt="Python"/>
   <img src="assets/ISO_C++_Logo.svg.png" width="80" alt="C++"/>
   <img src="assets/Arduino_Logo_Registered.svg.png" width="80" alt="Arduino"/>
