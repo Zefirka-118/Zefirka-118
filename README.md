@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería en Software. Desarrollo prototipos con Arduino y t
 - Integración de hardware y software para demos físicas (cerraduras con servo, alarmas térmicas, semáforos).
 
 ## Proyectos destacados (pinned)
-- **Arduino Password Door Lock** — control de acceso con keypad, LCD y servo.  
+- **Arduino Access Control System** — control de acceso con keypad, LCD y servo.  
 - **TMP36 Temperature Alarm** — alarma térmica con monitor serial y buzzer.  
 - **Traffic Light Simulation** — semáforo con 3 LEDs y lógica de ciclos.
 
@@ -42,7 +42,7 @@ I am a Software Engineering student. I prototype with Arduino and build automati
 - Technical documentation and simulation.
 
 ## Featured projects
-- **Arduino Password Door Lock** — keypad, LCD, and servo based access control.  
+- **Arduino Access Control System** — keypad, LCD, and servo based access control.  
 - **TMP36 Temperature Alarm** — temperature alarm with buzzer and serial monitor.  
 - **Traffic Light Simulation** — three-LED traffic light with timing logic.
 
