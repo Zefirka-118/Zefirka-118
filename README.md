@@ -16,7 +16,10 @@ Soy estudiante de Ingeniería en Software.
 
 Mi lenguaje principal actualmente es **Python**, y mi experiencia llega por ahora hasta el uso de **clases, objetos y estructura básica de proyectos**.
 
-Gran parte de mis repositorios documentan proyectos que desarrollé anteriormente durante la **preparatoria usando C++ y Arduino**, los cuales he reconstruido y documentado como parte de mi aprendizaje y portafolio.
+La mayoría de mis repositorios actuales están enfocados en **proyectos hechos en Python**, ya sea ejercicios de clase o pequeños proyectos personales.
+
+También tengo varios proyectos desarrollados anteriormente durante la **preparatoria usando C++ y Arduino**.  
+Muchos de esos proyectos aún no están publicados, pero planeo **subirlos y documentarlos poco a poco**, ya que forman parte importante de mi aprendizaje en electrónica y sistemas embebidos.
 
 También experimento ocasionalmente con **JavaScript**, principalmente por curiosidad y aprendizaje personal.
 
@@ -76,6 +79,7 @@ Simulación básica de un **semáforo con Arduino UNO usando tres LEDs**.
 
 - JavaScript
 - Phyton
+- C++ (retomando)
 
 ---
 
@@ -102,5 +106,6 @@ El objetivo es **seguir aprendiendo y construir un portafolio técnico con el ti
 ---
 
 ## Enlaces
+
 - Tinkercad (simulaciones): https://www.tinkercad.com/things/fXvH7gprCiW
 - GitHub: https://github.com/Zefirka-118
