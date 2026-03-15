@@ -1,0 +1,32 @@
+<!-- assets/header.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Header">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0" stop-color="#071126"/>
+      <stop offset="1" stop-color="#0b2a3d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#grad)"/>
+
+  <g font-family="Inter, Arial, Helvetica, sans-serif" fill="#ffffff">
+    <text x="40" y="74" font-size="34" font-weight="600">Zefrik</text>
+    <text x="40" y="108" font-size="16" opacity="0.9">Estudiante de Ingeniería en Software — Prototipos embebidos y automatización</text>
+  </g>
+
+  <!-- grupo de círculos animados a la derecha -->
+  <g transform="translate(920,60)">
+    <circle cx="0" cy="20" r="6" fill="#ffffff" opacity="0.06">
+      <animate attributeName="r" values="6;18;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.06;0.45;0.06" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="46" cy="20" r="5" fill="#ffffff" opacity="0.05">
+      <animate attributeName="r" values="5;14;5" dur="1.9s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.05;0.36;0.05" dur="1.9s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="92" cy="20" r="4" fill="#ffffff" opacity="0.04">
+      <animate attributeName="r" values="4;10;4" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.04;0.28;0.04" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
